@@ -1,0 +1,11 @@
+* f8064eb Git_8 diff między ostatnimi commitami
+* e155935 Git_8 log na gałęzi test
+* 05dc027 Zmieniony README.md do konfliktu
+* 4e3a031 Git_7 pliki informacyjne dodane na gałęzi test
+* 45b29cd Git_6 szczegóły wybranego commita
+* ff22b04 Git_6 zapis historii repozytorium
+* 888d58a Git_4 dodano plik README.md
+* de36e46 opis zmian na podstawie polecenia git diff
+* 329eba8 operacja restore i status w Gif_4
+* fde76d8 Dadano pliki ze statusem repozytorium
+* 79e36d2 Dodano pliki Git_1 i Git_2
