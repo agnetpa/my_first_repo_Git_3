@@ -1,0 +1,52 @@
+commit ff22b0468c5ac1cfd24770f2cfdb00b006417c94
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:11:24 2026 +0200
+
+    Git_6 zapis historii repozytorium
+
+diff --git a/Git_6_log.txt b/Git_6_log.txt
+new file mode 100644
+index 0000000..8a87964
+--- /dev/null
++++ b/Git_6_log.txt
+@@ -0,0 +1,29 @@
++commit 888d58a3c6f7035cb34c8dd80e834eeaaf6aaeef
++Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
++Date:   Tue Apr 21 09:25:27 2026 +0200
++
++    Git_4 dodano plik README.md
++
++commit de36e46b05652c7e84dea0d4a2dee6937128b6a6
++Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
++Date:   Tue Apr 21 09:19:47 2026 +0200
++
++    opis zmian na podstawie polecenia git diff
++
++commit 329eba89d59a868f396f37526d363ea0f5d6ad72
++Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
++Date:   Tue Apr 21 08:09:08 2026 +0200
++
++    operacja restore i status w Gif_4
++
++commit fde76d8103d4c7815cfd74945b58a73f8a191eec
++Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
++Date:   Tue Apr 21 08:06:20 2026 +0200
++
++    Dadano pliki ze statusem repozytorium
++
++commit 79e36d219e791abf9a0d9b7eec43e7c86f740974
++Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
++Date:   Tue Apr 21 08:04:07 2026 +0200
++
++    Dodano pliki Git_1 i Git_2
+diff --git a/Git_6_log_oneline.txt b/Git_6_log_oneline.txt
+new file mode 100644
+index 0000000..6eae4bb
+--- /dev/null
++++ b/Git_6_log_oneline.txt
+@@ -0,0 +1,5 @@
++888d58a Git_4 dodano plik README.md
++de36e46 opis zmian na podstawie polecenia git diff
++329eba8 operacja restore i status w Gif_4
++fde76d8 Dadano pliki ze statusem repozytorium
++79e36d2 Dodano pliki Git_1 i Git_2
