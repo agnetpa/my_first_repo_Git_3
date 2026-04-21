@@ -1,0 +1,7 @@
+Na gałęzi master
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	Git_4_status1.txt
+	Git_4_status2.txt
+
+nie dodano nic do złożenia, ale są nieśledzone pliki (użyj „git add”, aby śledzić)
