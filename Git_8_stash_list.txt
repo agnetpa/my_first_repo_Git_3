@@ -1,0 +1,1 @@
+stash@{0}: WIP on master: 59354ef Git_7 graf historii po scaleniu gałęzi
