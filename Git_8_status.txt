@@ -1,0 +1,9 @@
+Na gałęzi master
+Zmiany do złożenia:
+  (użyj „git restore --staged <plik>...”, aby wycofać)
+	nowy plik:       Git_8_branch.txt
+
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	Git_8_status.txt
+
