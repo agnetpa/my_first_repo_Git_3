@@ -1,0 +1,123 @@
+commit e320ab62a7ce411f1663d5d846547b4766d227b0
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 15:38:40 2026 +0200
+
+    Git_9 zapis historii przed reset
+
+commit 040d2fe12438f0d4a382f7f4530768475695fecf
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:33:04 2026 +0200
+
+    Git_8 cherry-pick zakończony
+
+commit b771346385511e4dc86d99924a54e2c892dc321c
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:29:38 2026 +0200
+
+    Git_8 log do cherry-pick
+
+commit 3c027877d3f84b84419d1db0b82ca832e20b0e8a
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:16:00 2026 +0200
+
+    Git_8 przywrócone zmiany ze stasha
+    
+    Git_8 zapis stanu repozytorium
+
+commit 2ef323ab236212510fa3b4e1437bd401f7727db2
+Merge: 3436f91 f8064eb
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:11:35 2026 +0200
+
+    Merge branch 'test'
+
+commit f8064eb53914de6b9a7562cce05585340bb15210
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:11:12 2026 +0200
+
+    Git_8 diff między ostatnimi commitami
+
+commit e155935d631c3a8f2e3adec5b7d3bc82a9d9bf56
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:09:17 2026 +0200
+
+    Git_8 log na gałęzi test
+
+commit 3436f918f76085b4e612992a2995bc7c6013ebe4
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 13:08:15 2026 +0200
+
+    Git_8 zapisy gałęzi, statusu i stash
+
+commit 59354efe806554ac02a4832247186a17e3589070
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:58:30 2026 +0200
+
+    Git_7 graf historii po scaleniu gałęzi
+
+commit ea3c2b33360a7dc93378def7f082f1e174ee2537
+Merge: 00a598b 05dc027
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:56:01 2026 +0200
+
+    Rozwiązanie konfliktu po scaleniu gałęzi test
+
+commit 05dc0273fcd3bbedef1d29e5dcb158f40a517379
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:50:54 2026 +0200
+
+    Zmieniony README.md do konfliktu
+
+commit 00a598b474afe52f7e62e8daba962b918a8ef7e8
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:47:27 2026 +0200
+
+    Dodano informację o pracy z gałęziami
+
+commit 4e3a03121060d98e3f1610e70c8bfa93cedd1056
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:43:38 2026 +0200
+
+    Git_7 pliki informacyjne dodane na gałęzi test
+
+commit 45b29cd4755348b0a7604e4f1a924b673834f899
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:15:27 2026 +0200
+
+    Git_6 szczegóły wybranego commita
+
+commit ff22b0468c5ac1cfd24770f2cfdb00b006417c94
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 12:11:24 2026 +0200
+
+    Git_6 zapis historii repozytorium
+
+commit 888d58a3c6f7035cb34c8dd80e834eeaaf6aaeef
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 09:25:27 2026 +0200
+
+    Git_4 dodano plik README.md
+
+commit de36e46b05652c7e84dea0d4a2dee6937128b6a6
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 09:19:47 2026 +0200
+
+    opis zmian na podstawie polecenia git diff
+
+commit 329eba89d59a868f396f37526d363ea0f5d6ad72
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 08:09:08 2026 +0200
+
+    operacja restore i status w Gif_4
+
+commit fde76d8103d4c7815cfd74945b58a73f8a191eec
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 08:06:20 2026 +0200
+
+    Dadano pliki ze statusem repozytorium
+
+commit 79e36d219e791abf9a0d9b7eec43e7c86f740974
+Author: Agnieszka Seraszek-Jaros <agnetpa@gmail.com>
+Date:   Tue Apr 21 08:04:07 2026 +0200
+
+    Dodano pliki Git_1 i Git_2
