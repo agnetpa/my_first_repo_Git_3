@@ -1,0 +1,5 @@
+888d58a Git_4 dodano plik README.md
+de36e46 opis zmian na podstawie polecenia git diff
+329eba8 operacja restore i status w Gif_4
+fde76d8 Dadano pliki ze statusem repozytorium
+79e36d2 Dodano pliki Git_1 i Git_2
