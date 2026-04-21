@@ -1,0 +1,36 @@
+6b2805d HEAD@{0}: commit: Git_9 historia po reset --hard
+040d2fe HEAD@{1}: reset: moving to HEAD~1
+e320ab6 HEAD@{2}: commit: Git_9 zapis historii przed reset
+040d2fe HEAD@{3}: commit: Git_8 cherry-pick zakończony
+b771346 HEAD@{4}: cherry-pick: Git_8 log do cherry-pick
+3c02787 HEAD@{5}: checkout: moving from test to master
+bf6d5aa HEAD@{6}: commit: Git_8 log do cherry-pick
+f8064eb HEAD@{7}: checkout: moving from master to test
+3c02787 HEAD@{8}: rebase (finish): returning to refs/heads/master
+3c02787 HEAD@{9}: rebase (squash): Git_8 przywrócone zmiany ze stasha
+358899e HEAD@{10}: rebase (start): checkout HEAD~2
+5d6480b HEAD@{11}: commit: Git_8 zapis stanu repozytorium
+358899e HEAD@{12}: commit: Git_8 przywrócone zmiany ze stasha
+2ef323a HEAD@{13}: merge test: Merge made by the 'ort' strategy.
+3436f91 HEAD@{14}: checkout: moving from test to master
+f8064eb HEAD@{15}: commit: Git_8 diff między ostatnimi commitami
+e155935 HEAD@{16}: commit: Git_8 log na gałęzi test
+05dc027 HEAD@{17}: checkout: moving from master to test
+3436f91 HEAD@{18}: commit: Git_8 zapisy gałęzi, statusu i stash
+59354ef HEAD@{19}: reset: moving to HEAD
+59354ef HEAD@{20}: commit: Git_7 graf historii po scaleniu gałęzi
+ea3c2b3 HEAD@{21}: commit (merge): Rozwiązanie konfliktu po scaleniu gałęzi test
+00a598b HEAD@{22}: checkout: moving from test to master
+05dc027 HEAD@{23}: commit: Zmieniony README.md do konfliktu
+4e3a031 HEAD@{24}: checkout: moving from master to test
+00a598b HEAD@{25}: commit: Dodano informację o pracy z gałęziami
+45b29cd HEAD@{26}: checkout: moving from test to master
+4e3a031 HEAD@{27}: commit: Git_7 pliki informacyjne dodane na gałęzi test
+45b29cd HEAD@{28}: checkout: moving from master to test
+45b29cd HEAD@{29}: commit: Git_6 szczegóły wybranego commita
+ff22b04 HEAD@{30}: commit: Git_6 zapis historii repozytorium
+888d58a HEAD@{31}: commit: Git_4 dodano plik README.md
+de36e46 HEAD@{32}: commit: opis zmian na podstawie polecenia git diff
+329eba8 HEAD@{33}: commit: operacja restore i status w Gif_4
+fde76d8 HEAD@{34}: commit: Dadano pliki ze statusem repozytorium
+79e36d2 HEAD@{35}: commit (initial): Dodano pliki Git_1 i Git_2
