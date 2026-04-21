@@ -1,0 +1,12 @@
+Na gałęzi master
+Zmiany nie przygotowane do złożenia:
+  (użyj „git add/rm <plik>...”, żeby zmienić, co zostanie złożone)
+  (użyj „git restore <plik>...”, aby odrzucić zmiany w katalogu roboczym)
+	usunięto:        Git_4_status1.txt
+	zmieniono:       Git_4_status2.txt
+
+Nieśledzone pliki:
+  (użyj „git add <plik>...”, żeby uwzględnić, co zostanie złożone)
+	Git_4_status3.txt
+
+brak zmian dodanych do zapisu (użyj „git add” i/lub „git commit -a”)
