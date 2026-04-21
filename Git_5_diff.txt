@@ -1,0 +1,1 @@
+Polecenie diff porównuje w tym zadaniu pierwszy i trzeci commit. wynika z tego porównania, że dodano nowy plik drugi_plik.txt, który zawiera tekst "Lorem ipsum...". Zmieniono plik nowy_plik dodając linię "hello world" 
