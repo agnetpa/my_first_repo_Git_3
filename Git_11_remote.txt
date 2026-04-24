@@ -1,0 +1,2 @@
+origin	git@github.com:agnetpa/my_first_repo_Git_3.git (fetch)
+origin	git@github.com:agnetpa/my_first_repo_Git_3.git (push)
