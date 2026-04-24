@@ -16,3 +16,5 @@ Numer słuchacza: *pd5402*
 Praca z gałęziami i rozwiązywanie konfliktów.
 
 Tutaj będzie konflikt.
+
+Test Ci/CD
